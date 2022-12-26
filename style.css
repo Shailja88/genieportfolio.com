@@ -366,7 +366,9 @@ nav .fas{
 
         display: block;
         /* margin:25px; */
-        margin:10px;
+/*         margin:10px; */
+        margin:20px;
+        padding-top: 20px;
     }
     nav ul .fas{
       position: absolute;  
